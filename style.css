@@ -1,0 +1,7 @@
+body { background: #6eaf2d; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 10px; display: flex; }
+.block-token-0 { color: #2e1148; font-size: 13px; margin-bottom: 5px; }
+.block-token-1 { color: #be1774; font-size: 15px; margin-bottom: 5px; }
+.block-uploader-2 { color: #1b0400; font-size: 13px; margin-bottom: 5px; }
+.block-config-3 { color: #6ffb6d; font-size: 19px; margin-bottom: 5px; }
+.block-invoice-4 { color: #7646ab; font-size: 20px; margin-bottom: 5px; }
